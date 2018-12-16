@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChronalCoordinates", "ChronalCoordinates.csproj", "{C25106AC-6B5C-4792-94DF-18FA779DE372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C25106AC-6B5C-4792-94DF-18FA779DE372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25106AC-6B5C-4792-94DF-18FA779DE372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25106AC-6B5C-4792-94DF-18FA779DE372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25106AC-6B5C-4792-94DF-18FA779DE372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
